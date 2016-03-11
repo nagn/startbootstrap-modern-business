@@ -1,0 +1,22 @@
+{
+  "name": "startbootstrap-modern-business",
+  "version": "1.0.0",
+  "description": "[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-modern-business.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business/issues"
+  },
+  "homepage": "https://github.com/BlackrockDigital/startbootstrap-modern-business#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
